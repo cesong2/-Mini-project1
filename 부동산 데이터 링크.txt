@@ -15,6 +15,10 @@ https://www.reb.or.kr/r-one/main.do
 
 http://rtdown.molit.go.kr/
 
-
+==========================================================================
 주식 시세정보 및 주식관련 써먹을수있을만한 데이터 사이트
 http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0204
+
+기간별 환율 변화 
+https://sbiz.wooribank.com/biz/Dream?withyou=BZFXD0020
+==========================================================================
