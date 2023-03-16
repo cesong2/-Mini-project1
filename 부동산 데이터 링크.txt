@@ -14,3 +14,7 @@ https://www.data.go.kr/data/15094808/openapi.do
 https://www.reb.or.kr/r-one/main.do
 
 http://rtdown.molit.go.kr/
+
+
+주식 시세정보 및 주식관련 써먹을수있을만한 데이터 사이트
+http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0204
