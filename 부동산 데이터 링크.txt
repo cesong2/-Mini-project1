@@ -12,3 +12,8 @@ https://www.data.go.kr/data/15094808/openapi.do
 
 추가적인 부동산통계정보 사이트
 https://www.reb.or.kr/r-one/main.do
+
+------------------------------------------------------------------
+
+환율 전망 예측 (사이트 들어가면 다른 변수들 예측도 몇개 있음)
+https://wonforecast.com/%EB%8B%AC%EB%9F%AC-%ED%99%98%EC%9C%A8-%EC%A0%84%EB%A7%9D
